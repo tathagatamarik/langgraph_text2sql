@@ -1,0 +1,16 @@
+# --- LLM Orchestration ---
+langchain==0.1.0
+langchain-openai==0.0.2
+langgraph==0.0.15
+
+# --- Database & Drivers ---
+pyodbc==5.1.0
+sqlalchemy==2.0.25
+
+# --- Environment & Utils ---
+python-dotenv==1.0.0
+pyyaml==6.0.1
+pydantic==2.5.3
+
+# --- Optional: Advanced Retrieval (Vector DB) ---
+# chromadb==0.4.22
